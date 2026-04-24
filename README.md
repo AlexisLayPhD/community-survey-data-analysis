@@ -108,4 +108,4 @@ This project demonstrates the use of data analysis to inform community planning 
 
 
 ## Author
-[Your Name]
+Alexis Lay
